@@ -60,3 +60,6 @@ group :test do
   gem 'simplecov'
 end
 gem 'devise'
+gem 'omniauth-github'
+gem 'pry'
+gem 'omniauth-rails_csrf_protection'
